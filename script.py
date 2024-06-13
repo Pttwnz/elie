@@ -15,7 +15,7 @@ load_dotenv(dotenv_path=dotenv_path)
 
 # Especificar la clave y el valor que deseas actualizar o agregar
 API_KEY_NAME = "OPENAI_API_KEY"
-NEW_API_KEY_VALUE = "sk-proj-fGH83DIUcdKymuEyKxVuT3BlbkFJoAhbt1pMaPJyXcXuUP9B"  # Reemplaza con tu nueva clave API
+NEW_API_KEY_VALUE = ""  # Reemplaza con tu nueva clave API
 
 # Actualizar o agregar la clave en el archivo .env
 set_key(dotenv_path, API_KEY_NAME, NEW_API_KEY_VALUE)
