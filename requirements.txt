@@ -1,0 +1,13 @@
+  streamlit
+    openai
+    PyPDF2
+    python-docx
+    wikipedia-api
+    python-dotenv
+    matplotlib
+    Pillow
+    
+    #Luego, instala las dependencias usando:
+    #bash
+    #pip install -r requirements.txt
+ 
